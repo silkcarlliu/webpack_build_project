@@ -14,5 +14,6 @@ module.exports = {
   rules: {
     "no-var": 2,
   },
+  plugins: ["import"],
   // ...
 }
